@@ -1,7 +1,7 @@
 # JiangXi-IPTV-M3U
-### 自用直播源-仅在江西进行测试保证可用-主要为央视卫视港澳台
+### 自用直播源
 
-更新时间：2022/10/14
+使用江西电信进行测试，主要内容为央视、卫视、本地台、港澳台+个人喜好
 
 M3U链接：http://home.subtlyrabbit.top:1999/api/share/f5e65e3e-6a9e-4d89-99b5-b9f6dac650c3.m3u
 
@@ -9,14 +9,24 @@ TXT链接：http://home.subtlyrabbit.top:1999/api/share/103a198f-3fed-4056-9783-
 
 **资源来源于互联网，请勿商用，请勿用于非法用途，请不要爆破服务器**
 
-当前源列表：
+最后更新时间：2022/10/24
 
+---
 
+### Emby使用教程
+1. 添加电视源：http://home.subtlyrabbit.top:1999/api/share/f5e65e3e-6a9e-4d89-99b5-b9f6dac650c3.m3u
+
+2. 添加指南数据源：选择XmlTV，添加此网址：http://epg.51zmt.top:8000/e.xml
+
+### 数据来源
+- 直播地址：https://github.com/SPX372928/MyIPTV、[电视节目-娱乐你我他，为分享而生时光爱分享](https://blog.wemtime.com/dszb)
+- 图标、指南：http://epg.51zmt.top:8000/
+- IPTV存活检测：一个橙子
 
 ---
 
 ### 江西电信IPTV抓包流程：
-
+- 待填坑
 
 
 ---
