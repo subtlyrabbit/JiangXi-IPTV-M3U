@@ -5,9 +5,9 @@
 
 使用DIPY直播壳添加以下订阅链接后可实现自动更新
 
-M3U链接：http://home.subtlyrabbit.top:1999/api/share/f5e65e3e-6a9e-4d89-99b5-b9f6dac650c3.m3u
+TXT链接：http://home.subtlyrabbit.top:1999/api/share/f8c78782-21e7-401c-82e4-e5eb1e2085f9.txt
 
-TXT链接：http://home.subtlyrabbit.top:1999/api/share/103a198f-3fed-4056-9783-a93999f3810b.txt
+M3U链接：http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u
 
 **如果以上订阅链接暂时无法使用，请直接下载m3u文件使用**
 
@@ -20,7 +20,7 @@ TXT链接：http://home.subtlyrabbit.top:1999/api/share/103a198f-3fed-4056-9783-
 ---
 
 ### Emby添加电视直播教程
-1. 添加电视源：http://home.subtlyrabbit.top:1999/api/share/f5e65e3e-6a9e-4d89-99b5-b9f6dac650c3.m3u
+1. 添加电视源：http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u
 
 2. 添加指南数据源：选择XmlTV，添加此网址：http://epg.51zmt.top:8000/e.xml
 
