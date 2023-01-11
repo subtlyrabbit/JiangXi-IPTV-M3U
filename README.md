@@ -13,7 +13,7 @@
 
 资源来源于互联网，请勿商用，请不要爆破服务器
 
-最后更新时间：2022/11/08
+最后更新时间：2023/01/11
 
 ---
 
@@ -31,18 +31,16 @@
       1. 待续
 
    2. 使用**订阅链接**实现自动更新
-      - [ ] TXT链接：http://home.subtlyrabbit.top:1999/api/share/f8c78782-21e7-401c-82e4-e5eb1e2085f9.txt
+      - TXT链接：http://home.subtlyrabbit.top:1999/api/share/f8c78782-21e7-401c-82e4-e5eb1e2085f9.txt
 
-      - [ ] M3U链接：http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u
+      - M3U链接：http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u
 
 
 #### 2️⃣Apple TV
 
 1. 在Appstore下载 **TV+** 软件
 2. 添加**订阅链接**
-   1. M3U链接：http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u
-
-
+   - M3U链接：http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u
 
 #### 3️⃣Jellyfin、Emby、Plex等流媒体管理软件
 1. 添加电视源：http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u
