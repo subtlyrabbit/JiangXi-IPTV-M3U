@@ -22,7 +22,7 @@ CGTN,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240365_1/playlist.m3u8?C
 CGTN西班牙,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240367_1/playlist.m3u8?CONTENTID=00000110240367_1
 
 江西频道,#genre#	
-江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
+江西1 卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
 江西2 都市,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/10000100000000060000000000000162_0.smil/index.m3u8?fmt=ts2hls
 江西3 经济生活,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/10000100000000060000000005219195_0.smil/index.m3u8?fmt=ts2hls
 江西4 旅游影视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/10000100000000060000000000000029_0.smil/index.m3u8?fmt=ts2hls
@@ -61,14 +61,18 @@ CGTN西班牙,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240367_1/playli
 第一财经,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226987/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
 港澳频道,#genre#	
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://111.59.189.40:8445/tsfile/live/1020_1.m3u8#https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?blog.ntnas.top
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8#http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://111.59.189.40:8445/tsfile/live/1020_1.m3u8#https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?blog.ntnas.top#http://107.151.203.111:2209/135/hk.php?id=fhzw
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://111.59.189.40:8445/tsfile/live/1021_1.m3u8#http://home.111818.xyz:8888/udp/239.76.253.135:9000#http://107.151.203.111:2209/135/hk.php?id=fhzx#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
-无线新聞台,http://radius.8866.org:800/hls/82/index.m3u8
-有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u#https://api.leonardpark.dev/live/icable/110#http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-香港佛陀[1280*720],http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8#https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8#http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
+无线新闻,http://2022.stream-link.org/playlist/tvb_news.ts#http://radius.8866.org:800/hls/82/index.m3u8
+无线财经,http://2022.stream-link.org/playlist/tvb_finance.ts
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u#https://api.leonardpark.dev/live/icable/110#http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8#http://2022.stream-link.org/playlist/cable_news.ts
+有线财经,https://api.leonardpark.dev/live/icable/108#http://2022.stream-link.org/playlist/cable_finance.ts
+翡翠台,http://2022.stream-link.org/playlist/tvb_jade.ts#http://r.jdshipin.com/62WM7#http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
+华丽台,http://2022.stream-link.org/playlist/astro_jade.ts#http://r.jdshipin.com/thuYX
+TVB 星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8#https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
@@ -78,53 +82,34 @@ CGTN西班牙,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240367_1/playli
 台湾频道,#genre#
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4006/playlist.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS欢乐,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=2
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 东森财经,http://123.51.230.108:18515/.m3u8
-民视新闻,http://123.51.230.108:18663/.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-生活時尚[1280*720],http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
-台视 HD[1280*720],http://107.151.203.111:2209/135/us50.php?id=tsk#http://23.237.10.66:16344
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-原住民族电视台,http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F#https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F#https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8
-中视菁采[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
-中視菁采 HD[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
-愛爾達娛樂 HD[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-靖天國際台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-靖天映畫[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
-靖天卡通台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
-靖天戲劇台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
-靖天育樂台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
-靖天歡樂台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
-靖洋戲劇台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-采昌影劇台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-時裝頻道[1280*720],http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
-世新綜合[1280*720],http://61.58.60.230:9319/live/49.m3u8
-嘉義SHOW[1280*720],http://61.58.60.230:9319/live/100.m3u8
+中视菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8#http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
+靖天國際台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+靖天卡通台,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+靖天戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+靖天育樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+靖天歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+靖洋戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+采昌影劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 生命電視台[1920*1080],http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
-創世電視[1280*720],https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
-金馬影院[1280*720],http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-影迷纪实台[1280*720],http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
-ROLLOR[1280*720],http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
-老电影[1280*720],http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
-经典卡通台[1280*720],http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
-精选动漫台[1280*720],http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
-Lifetime[1280*720],http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
-全球财经[1280*720],http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
-全民最大党[1280*720],http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
-宠物台[1280*720],http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
-Gobal[1280*720],http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
-ELTA生活旅游[1280*720],http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
-中天美食旅游[1280*720],http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
-CNN[1280*720],http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
-MCE[1280*720],http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
-GINX[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
-mezzo[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
-TRACE[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
-智林体育台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-纬来体育[1920*1080],http://123.51.230.108:18509/.m3u8
-starworld[1920*1080],http://123.51.230.108:18504/.m3u8
+創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
+金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+全球财经,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
+全民最大党,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
+宠物台,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
+Gobal,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+ELTA生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+中天美食旅游,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
+MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
+mezzo,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+TRACE,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+Star World,http://123.51.230.108:18504/.m3u8
 
 海外新闻,#genre#
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4006/playlist.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -313,4 +298,4 @@ VOA,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 使用须知,#genre#
 禁止商用,http://#.m3u8
 最后更新时间,http://#.m3u8
-2023/03/05,http://#.m3u8
+2023/03/06,http://#.m3u8

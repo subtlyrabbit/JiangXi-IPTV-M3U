@@ -30,10 +30,10 @@
    - 每个频道只有一个精选过的**1080P低延迟直播源**（延迟测试基于江西电信）
    - 含有tvg-name，可与EPG匹配显示台标
 2. TXT链接：http://home.subtlyrabbit.top:1999/api/share/f8c78782-21e7-401c-82e4-e5eb1e2085f9.txt
-   - 量大管饱，每个频道包含多个直播源，可以手动切源
+   - 每个频道一般包含多个直播源，可以手动切源
 3. **包含IPV6直播源的版本**（维护中，待更新）
    - 某些地区使用IPV6可以拥有更低的延迟和更高的稳定性
-4. **直播源最后更新时间：2023/03/05**
+4. **直播源最后更新时间：2023/03/06**
 
 
 ---
@@ -47,8 +47,8 @@
 
 1. 在智能电视/电视盒子上安装DIPY直播APP，[点我下载](https://github.com/subtlyrabbit/JiangXi-IPTV-M3U/releases)
 
-   - 安装第三方APP方法请自行搜索
-   - 常用设备安装方法指路：
+   - 设备安装第三方APP方法请自行搜索
+   - 指路：
      - [小米电视不能优盘装软件怎么办，方法亲测有效]( https://weibo.com/3185567812/MlZ7uD0dG)
    
 2. 添加TXT订阅链接
@@ -78,7 +78,7 @@
 
 - ##### （API>=30/安卓12及以上）
 
-1. 在智能电视/电视盒子上安装TiviMate IPTV Player，本项目提供学习版[点我下载](https://github.com/subtlyrabbit/JiangXi-IPTV-M3U/releases)
+1. 在智能电视/电视盒子上安装TiviMate IPTV Player，本项目提供一份学习版[点我下载](https://github.com/subtlyrabbit/JiangXi-IPTV-M3U/releases)
 
    - 安装第三方APP方法同上
 2. 添加M3U订阅链接（自动更新）
