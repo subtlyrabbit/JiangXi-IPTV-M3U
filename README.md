@@ -42,12 +42,11 @@
 ### ✴️使用教程
 
 #### 1️⃣基于安卓系统的智能电视/电视盒子
-- ##### （如果您的设备是API<30/安卓11及以下）
-
 
 1. 在智能电视/电视盒子上安装DIPY直播APP，[点我下载](https://github.com/subtlyrabbit/JiangXi-IPTV-M3U/releases)
 
-   - 设备安装第三方APP方法请自行搜索
+   - 本项目提供的APP为32位，安卓4.4—安卓13全兼容（测试设备：XiaoMi 10U）
+   - 安装第三方APP方法请自行搜索
    - 指路：
      - [小米电视不能优盘装软件怎么办，方法亲测有效]( https://weibo.com/3185567812/MlZ7uD0dG)
    
@@ -75,15 +74,6 @@
       - 添加后DIPY APP会立刻刷新，即可观看
    
 3.  设置开机自启动
-
-- ##### （API>=30/安卓12及以上）
-
-1. 在智能电视/电视盒子上安装TiviMate IPTV Player，本项目提供一份学习版[点我下载](https://github.com/subtlyrabbit/JiangXi-IPTV-M3U/releases)
-
-   - 安装第三方APP方法同上
-2. 添加M3U订阅链接（自动更新）
-   - 待补充
-3. 添加EPG
 
 #### 2️⃣Apple TV
 
