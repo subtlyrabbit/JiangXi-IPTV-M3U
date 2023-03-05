@@ -1,19 +1,13 @@
 ## JiangXi-IPTV-M3U
 
-### 🆘须知
+### ⚠️警告
 
 - **本项目纯属个人兴趣，请不要利用本项目进行商业活动！**
 
 - 直播资源由个人搜集于互联网，请不要DDOS订阅服务器
 
-- **直播源最后测试时间：2023/03/05**
-
----
-
-### ⚠️警告
-
-- 请批判性对待部分电视直播内容，仅代表部分主持人与电视台观点，不代表本人观点
-- 本人深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”
+- **请批判性对待部分电视节目内容，节目仅代表主持人与嘉宾观点，不代表项目作者观点！**
+- 作者**深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”**，始终在思想上政治上行动上同以习近平同志为核心的党中央保持高度一致，为实现党的二十大提出的目标任务而团结奋斗
 
 ---
 
@@ -33,12 +27,13 @@
 #### 1️⃣订阅链接（默认不含IPV6）
 
 1. M3U链接：http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u
-   - 每个频道只含有一个精选过的**1080P低延迟直播源**（延迟测试基于江西电信）
+   - 每个频道只有一个精选过的**1080P低延迟直播源**（延迟测试基于江西电信）
    - 含有tvg-name，可与EPG匹配显示台标
 2. TXT链接：http://home.subtlyrabbit.top:1999/api/share/f8c78782-21e7-401c-82e4-e5eb1e2085f9.txt
    - 量大管饱，每个频道包含多个直播源，可以手动切源
 3. **包含IPV6直播源的版本**（维护中，待更新）
    - 某些地区使用IPV6可以拥有更低的延迟和更高的稳定性
+4. **直播源最后更新时间：2023/03/05**
 
 
 ---
@@ -47,14 +42,15 @@
 ### ✴️使用教程
 
 #### 1️⃣基于安卓系统的智能电视/电视盒子
-- ##### （API<30/安卓11及以下）
+- ##### （如果您的设备是API<30/安卓11及以下）
 
 
-1. 在智能电视/电视盒子上安装DIPY直播APP，[点我下载]([Releases · subtlyrabbit/JiangXi-IPTV-M3U (github.com)](https://github.com/subtlyrabbit/JiangXi-IPTV-M3U/releases))
+1. 在智能电视/电视盒子上安装DIPY直播APP，[点我下载](https://github.com/subtlyrabbit/JiangXi-IPTV-M3U/releases)
 
    - 安装第三方APP方法请自行搜索
-   - 请注意，提供的DIPY直播APP为arm-v7a，api版本28，**经测试并不支持安卓12及以上**
-   - 常用设备指路：[小米电视不能优盘装软件怎么办，方法亲测有效]( https://weibo.com/3185567812/MlZ7uD0dG)
+   - 常用设备安装方法指路：
+     - [小米电视不能优盘装软件怎么办，方法亲测有效]( https://weibo.com/3185567812/MlZ7uD0dG)
+   
 2. 添加TXT订阅链接
    1. **使用订阅链接实现自动更新**
       
@@ -77,33 +73,41 @@
    
       ![](https://imghost.subtlyrabbit.top//images%E6%89%8B%E5%8A%A8%E6%B7%BB%E5%8A%A0%E7%9B%B4%E6%92%AD%E6%BA%903.png)
       - 添加后DIPY APP会立刻刷新，即可观看
+   
 3.  设置开机自启动
 
 - ##### （API>=30/安卓12及以上）
 
-1. 在智能电视/电视盒子上安装TiviMate IPTV Player，本项目提供学习版[点我下载]([Releases · subtlyrabbit/JiangXi-IPTV-M3U (github.com)](https://github.com/subtlyrabbit/JiangXi-IPTV-M3U/releases))
+1. 在智能电视/电视盒子上安装TiviMate IPTV Player，本项目提供学习版[点我下载](https://github.com/subtlyrabbit/JiangXi-IPTV-M3U/releases)
 
    - 安装第三方APP方法同上
 2. 添加M3U订阅链接（自动更新）
-   - 教程待补充
+   - 待补充
 3. 添加EPG
 
 #### 2️⃣Apple TV
 
 1. 在Appstore下载 **TV+** 软件
 2. 添加M3U订阅链接
-   - M3U链接：http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u
 
 #### 3️⃣Jellyfin、Emby、Plex等流媒体管理软件
-1. 添加电视源：http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u
+1. 添加M3U订阅链接
 
 2. 添加指南数据源：选择XmlTV，添加此网址：http://epg.51zmt.top:8000/e.xml
+
+#### 4️⃣Windows
+
+1. 下载Potplayer播放器
+2. 双击播放m3u文件即可
 
 ---
 
 ### 数据来源
 
 - 直播源：https://github.com/SPX372928/MyIPTV 、[电视节目-娱乐你我他，为分享而生时光爱分享](https://blog.wemtime.com/dszb)
-- 图标、指南：http://epg.51zmt.top:8000/
-- IPTV存活检测：[一个橙子pro工具箱](https://github.com/biancangming/wtv/wiki/一个橙子pro工具箱使用指南)
+- 台标、EPG：http://epg.51zmt.top:8000/
+- IPTV检测工具：[一个橙子pro工具箱](https://github.com/biancangming/wtv/wiki/一个橙子pro工具箱使用指南)
 
+---
+
+[![Star History Chart](https://api.star-history.com/svg?repos=subtlyrabbit/JiangXi-IPTV-M3U&type=Date)](https://star-history.com/#subtlyrabbit/JiangXi-IPTV-M3U)
