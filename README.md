@@ -13,29 +13,33 @@
 
 ### ✳️简介
 
-- 本项目旨在为父母与长辈提供一个【开机自启】【高清】【无广告】电视直播体验
+- 本项目旨在为父母与长辈提供一个【开机自启】【高清】【无广告】电视节目收看体验
 
 - 仅需在智能电视/电视盒子上安装相应直播APP，导入订阅链接后既可食用
 
 - 打开设备电源后无需任何操作既可以收看电视节目，免除使用广电或运营商IPTV盒子繁琐的操作、卡顿、广告与~~有线电视费~~
 
-- 目前提供央视、江西本地台、卫视、港澳台和国外新闻台，**不会收录乱七八糟的网络直播和轮播**
+- 目前提供的节目为：央视、江西本地台、卫视、港澳台和国外新闻台，**不会收录乱七八糟的网络直播和轮播**
 
 - 主要电视台直播源分辨率均为1080P及以上，响应速度在2000ms内，为了保护眼睛，**不会收录1080P以下的源**（除非这个台到23年还没有做没有高清化）~~（说的就是这些地方台）~~
 
+#### 1️⃣订阅链接
 
-#### 1️⃣订阅链接（默认不含IPV6）
-
-1. M3U链接：http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u
+- **M3U订阅链接**
+   
    - 每个频道只有一个精选过的**1080P低延迟直播源**（延迟测试基于江西电信）
    - 含有tvg-name，可与EPG匹配显示台标
-   - **最后更新时间：2022/01/05**
-2. TXT链接：http://home.subtlyrabbit.top:1999/api/share/f8c78782-21e7-401c-82e4-e5eb1e2085f9.txt
+   - 仅IPV4：null
+   - IPV4+IPV6混合：http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u
+   
+   - 最后更新时间：2022/01/05
+   
+- **TXT订阅链接**
+   
    - 每个频道一般包含多个直播源，可以手动切源
-   - **最后更新时间：2023/03/06**
-3. 包含IPV6直播源的版本（维护中）
-   - 某些地区使用IPV6可以拥有更低的延迟和更高的稳定性
-   - **最后更新时间：NULL**
+   - 仅IPV4：http://home.subtlyrabbit.top:1999/api/share/f8c78782-21e7-401c-82e4-e5eb1e2085f9.txt
+   - IPV4+IPV6混合：null
+   - 最后更新时间：2023/03/06
 
 
 ---
@@ -100,7 +104,5 @@
 - 直播源：https://github.com/SPX372928/MyIPTV 、[电视节目-娱乐你我他，为分享而生时光爱分享](https://blog.wemtime.com/dszb)
 - 台标、EPG：http://epg.51zmt.top:8000/
 - IPTV检测工具：[一个橙子pro工具箱](https://github.com/biancangming/wtv/wiki/一个橙子pro工具箱使用指南)
-
----
 
 [![Star History Chart](https://api.star-history.com/svg?repos=subtlyrabbit/JiangXi-IPTV-M3U&type=Date)](https://star-history.com/#subtlyrabbit/JiangXi-IPTV-M3U)
