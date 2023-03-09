@@ -1,5 +1,5 @@
 <h2 align="center">为江西地区优化的IPTV直播源</h2>
-<h4 align="center">JiangXi-IPTV-M3U</h4>
+<h3 align="center">JiangXi-IPTV-M3U</h3>
 
 ### ✳️简介
 
@@ -26,7 +26,7 @@
 
 ---
 
-#### 1️⃣订阅链接
+### 🔗订阅链接
 
 - **M3U订阅链接**
   
@@ -47,7 +47,7 @@
 ---
 
 
-### ✴️使用教程
+### 📚︎使用教程
 
 #### 1️⃣基于安卓系统的智能电视/电视盒子
 
@@ -81,7 +81,7 @@
       ![](https://imghost.subtlyrabbit.top//images%E6%89%8B%E5%8A%A8%E6%B7%BB%E5%8A%A0%E7%9B%B4%E6%92%AD%E6%BA%903.png)
       - 添加后DIPY APP会立刻刷新，即可观看
    
-3.  设置开机自启动
+3.  最后设置开机自启动即可（可选）
 
 #### 2️⃣Apple TV
 
@@ -91,7 +91,7 @@
 #### 3️⃣Jellyfin、Emby、Plex等流媒体管理软件
 1. 添加【M3U】订阅链接
 
-2. 添加指南数据源：选择XmlTV，添加此网址：http://epg.51zmt.top:8000/e.xml
+2. 添加指南数据源：选择XmlTV，添加此网址：`http://epg.51zmt.top:8000/e.xml`
 
 #### 4️⃣Windows
 
