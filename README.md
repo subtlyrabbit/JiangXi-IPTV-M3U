@@ -1,8 +1,6 @@
-<div style="text-align: center;">
-    <h2>一个全平台傻瓜式电视直播方案</h2>
-    <h4>直播源按江西优化</h4>
-    <h4>JiangXi-IPTV-M3U</h4>
-</div>
+<h2 align="center">一个全平台傻瓜式IPTV电视直播方案</h2>
+<h4 align="center">直播源按江西优化</h4>
+<h4 align="center">JiangXi-IPTV-M3U</h4>
 
 ---
 
