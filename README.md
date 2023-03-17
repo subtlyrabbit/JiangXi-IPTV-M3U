@@ -3,7 +3,8 @@
 
 ### 📅更新日志
 
-
+- 2023/03/17
+  - 订阅链接已经切换到我自己的CDN，终于不会隔三岔五掉链子了.....原订阅服务会保留到2023/3/31日
 
 ---
 
@@ -38,16 +39,22 @@
   
    - 每个频道只有一个精选过的**1080P低延迟直播源**（延迟测试基于江西电信）
    - 含有tvg-name，可与EPG匹配显示台标
-   - 仅IPV4：`null`
-   - IPV4+IPV6混合：`http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u`
+   - 仅IPV4：`https://imghost.subtlyrabbit.top//iptv/subscribe/ipv4.m3u`
+   - IPV4+IPV6混合：
+     - NEW! `https://imghost.subtlyrabbit.top//iptv/subscribe/ipv6.m3u`
    
-   - 最后更新时间：2022/01/05
+     - `http://home.subtlyrabbit.top:1999/api/share/3f95a89b-c33a-4907-9e40-362163b44681.m3u`
+   
+   - 最后更新时间：2022/03/17
 - **TXT订阅链接**
-  
-   - 每个频道一般包含多个直播源，可以手动切源
-   - 仅IPV4：`null`
-   - IPV4+IPV6混合：`http://home.subtlyrabbit.top:1999/api/share/f8c78782-21e7-401c-82e4-e5eb1e2085f9.txt`
-   - 最后更新时间：2023/03/13
+  - 每个频道一般包含多个直播源，可以手动切源
+   - 仅IPV4：
+     - `https://imghost.subtlyrabbit.top//iptv/subscribe/ipv4.txt`
+   
+   - IPV4+IPV6混合：
+     - NEW! `https://imghost.subtlyrabbit.top//iptv/subscribe/ipv6.txt`
+     - `http://home.subtlyrabbit.top:1999/api/share/f8c78782-21e7-401c-82e4-e5eb1e2085f9.txt`
+   - 最后更新时间：2023/03/17
 
 
 ---
