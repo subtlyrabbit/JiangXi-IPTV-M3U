@@ -26,10 +26,7 @@
 
 ### ⚠️警告
 
-- **本项目纯属个人兴趣，禁止使用项目进行商业化活动，仅供学习使用**
-
-- 直播资源由个人搜集于互联网，请不要DDOS订阅服务器
-
+- **本项目纯属个人兴趣，仅供学习使用，禁止使用项目进行商业化活动**
 - **请批判性对待部分电视节目内容，节目仅代表主持人与嘉宾观点，不代表项目作者观点！**
 - 作者**深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”**，始终在思想上政治上行动上同以习近平同志为核心的党中央保持高度一致，为实现党的二十大提出的目标任务而团结奋斗
 
@@ -40,7 +37,8 @@
 - **M3U订阅链接**
   - **每个频道只有一个1080P低延迟直播源**（延迟测试基于江西电信）
    - 含有tvg-name，可与EPG匹配显示台标
-   - 仅IPV4：`https://imghost.subtlyrabbit.top//iptv/subscribe/ipv4.m3u`
+   - 仅IPV4：
+     - `https://imghost.subtlyrabbit.top//iptv/subscribe/ipv4.m3u`
    - IPV4+IPV6混合：
      -  `https://imghost.subtlyrabbit.top//iptv/subscribe/ipv6.m3u`
    - 最后更新时间：2022/03/17
@@ -50,7 +48,7 @@
      - `https://imghost.subtlyrabbit.top//iptv/subscribe/ipv4.txt`
    - IPV4+IPV6混合：
      - `https://imghost.subtlyrabbit.top//iptv/subscribe/ipv6.txt`
-   - 最后更新时间：2023/03/17
+   - 最后更新时间：2023/03/23
 
 
 ---
@@ -63,6 +61,7 @@
 1. 在智能电视/电视盒子上安装DIPY直播APP：[点我下载](https://github.com/subtlyrabbit/JiangXi-IPTV-M3U/releases)
 
    - 本项目提供的APP为32位，安卓4.4到安卓13全兼容（测试设备：XiaoMi 10U、HK1 Box）
+     - 查毒报告：
    - 各品牌智能电视安装第三方APP方法请自行搜索，以下提供一些方案供参考
      - [小米电视不能优盘装软件怎么办，方法亲测有效]( https://weibo.com/3185567812/MlZ7uD0dG)
      - [创维酷开电视安装第三方软件的方法！](https://www.bilibili.com/video/BV1yG4y1m75N)
@@ -79,11 +78,11 @@
    2. 手动添加直播源
       - 遥控器按：【设置】键—选择【显示设置】—【自定义源】
    
-       ![](https://imghost.subtlyrabbit.top//images%E6%89%8B%E5%8A%A8%E6%B7%BB%E5%8A%A0%E7%9B%B4%E6%92%AD%E6%BA%901.jpg)
+      ![](https://imghost.subtlyrabbit.top//images%E6%89%8B%E5%8A%A8%E6%B7%BB%E5%8A%A0%E7%9B%B4%E6%92%AD%E6%BA%901.jpg)
    
-      - 访问控制台（推荐使用电脑）
+      - 使用电脑等设备访问WEB控制台
    
-       ![](https://imghost.subtlyrabbit.top//images%E6%89%8B%E5%8A%A8%E6%B7%BB%E5%8A%A0%E7%9B%B4%E6%92%AD%E6%BA%902.jpg)
+      ![](https://imghost.subtlyrabbit.top//images%E6%89%8B%E5%8A%A8%E6%B7%BB%E5%8A%A0%E7%9B%B4%E6%92%AD%E6%BA%902.jpg)
    
       - 添加分类（如央视、卫视、港澳台）并在对应分类填入相应的直播源
    
@@ -106,7 +105,6 @@
 
 1. 使用Potplayer播放器播放对应【M3U】文件即可
 2. Potplayer播放器：[点击下载](http://potplayer.tv/)
-3. M3U直播文件：[点击下载](https://github.com/subtlyrabbit/JiangXi-IPTV-M3U/blob/main/subscribe/ipv4.m3u)
 
 ---
 
