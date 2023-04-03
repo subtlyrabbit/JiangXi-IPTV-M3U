@@ -47,7 +47,7 @@
    - 仅IPV4：
      
      - `https://imghost.subtlyrabbit.top//iptv/subscribe/ipv4.txt`
-   - 最后更新时间：2023/03/24
+   - 最后更新时间：2023/04/03
 
 
 ---
