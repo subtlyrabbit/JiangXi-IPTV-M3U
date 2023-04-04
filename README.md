@@ -3,8 +3,7 @@
 
 ### 📅日志与公告
 
-- 2023/03/17
-  - 订阅链接已经切换到我自己的CDN，终于不会隔三岔五掉链子了.....原订阅服务会保留到2023/3/31日
+- 原个人订阅服务已经更换为CDN，请重新输入订阅链接
 - M3U的完善程度不高，会慢于txt链接的更新速度
 - 不出意外的话一般是一周检测一次源的有效性，如有大面积失效情况请发issue
 
@@ -35,18 +34,18 @@
   - **每个频道只有一个1080P低延迟直播源**（延迟测试基于江西电信）
    - 含有tvg-name，可与EPG匹配显示台标
    - **IPV4+IPV6混合（推荐先用这个）**
-     - `https://imghost.subtlyrabbit.top//iptv/subscribe/ipv4v6.m3u`
+     - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4v6.m3u`
    - 仅IPV4：
   
-     - `https://imghost.subtlyrabbit.top//iptv/subscribe/ipv4.m3u`
+     - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4.m3u`
    - 最后更新时间：2022/03/17
 - **TXT订阅链接（每周维护更新）**
   - 每个频道一般包含多个直播源，可以手动切源
    - **IPV4+IPV6混合（推荐先用这个）**
-     - `https://imghost.subtlyrabbit.top//iptv/subscribe/ipv4v6.txt`
+     - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4v6.txt`
    - 仅IPV4：
      
-     - `https://imghost.subtlyrabbit.top//iptv/subscribe/ipv4.txt`
+     - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4.txt`
    - 最后更新时间：2023/04/03
 
 
@@ -67,7 +66,7 @@
      - [小米电视不能优盘装软件怎么办，方法亲测有效]( https://weibo.com/3185567812/MlZ7uD0dG)
      - [创维酷开电视安装第三方软件的方法！](https://www.bilibili.com/video/BV1yG4y1m75N)
    
-2. 添加【TXT】订阅链接（若不方便输入可以考虑使用外接键盘或者一些手机遥控软件）
+2. 添加【TXT】订阅链接**（若不方便输入可以考虑使用外接键盘或者一些手机遥控软件）**
    1. **使用订阅链接实现自动更新**
       
       - 遥控器按：【设置】键—选择【接口设置】—【节目地址】
