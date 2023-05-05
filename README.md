@@ -1,11 +1,10 @@
+![](https://imghost.subtlyrabbit.top//images90298910_p0-tuya.jpg)
 <h2 align="center">为江西地区优化的IPTV直播源</h2>
 <h3 align="center">JiangXi-IPTV-M3U</h3>
 
 ### 📅日志与公告
 
-- 2023/5/1更新：江西频道暂时无了
-- 原个人订阅服务已经更换为CDN，请重新输入订阅链接
-- M3U的完善程度不高，会慢于txt链接的更新速度
+- M3U的完善程度不高，会**显著**慢于txt链接的更新速度
 - 不出意外的话一般是一周检测一次源的有效性，如有大面积失效情况请发issue
 
 ---
@@ -39,7 +38,7 @@
    - 仅IPV4：
   
      - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4.m3u`
-   - 最后更新时间：2022/03/17
+   - 最后更新时间：2022/05/05
 - **TXT订阅链接（每周维护更新）**
   - 每个频道一般包含多个直播源，可以手动切源
    - **IPV4+IPV6混合（推荐先用这个）**
@@ -47,7 +46,7 @@
    - 仅IPV4：
      
      - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4.txt`
-   - 最后更新时间：2023/5/1
+   - 最后更新时间：2023/05/05
 
 
 ---
