@@ -4,6 +4,7 @@
 
 ### 📅日志与公告
 
+- 部分江西频道缺失、努力搜索中ing
 - M3U的完善程度不高，会**显著**慢于txt链接的更新速度
 - 不出意外的话一般是一周检测一次源的有效性，如有大面积失效情况请发issue
 
@@ -29,25 +30,19 @@
 ---
 
 ### 🔗订阅链接
-
-- **M3U订阅链接(更新速度和内容逊于TXT)**
-  - **每个频道只有一个1080P低延迟直播源**（延迟测试基于江西电信）
-   - 含有tvg-name，可与EPG匹配显示台标
-   - **IPV4+IPV6混合（推荐先用这个）**
-     - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4v6.m3u`
-   - 仅IPV4：
-  
-     - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4.m3u`
-   - 最后更新时间：2022/05/05
-- **TXT订阅链接（每周维护更新）**
+- **TXT订阅链接（配合APP使用，每周更新）**
   - 每个频道一般包含多个直播源，可以手动切源
-   - **IPV4+IPV6混合（推荐先用这个）**
+   - **IPV4+IPV6混合（推荐）**
      - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4v6.txt`
    - 仅IPV4：
-     
      - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4.txt`
    - 最后更新时间：2023/05/05
-
+- **M3U订阅链接(可在PC、Emby上使用，更新较慢)**
+  - **每个频道只有一个1080P低延迟直播源**（延迟测试基于江西电信）
+   - 含有tvg-name，可与EPG匹配显示台标
+   - **IPV4+IPV6混合**
+     - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4v6.m3u`
+   - 最后更新时间：2022/05/05
 
 ---
 
