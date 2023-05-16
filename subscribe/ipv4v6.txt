@@ -15,7 +15,7 @@ CCTV-13,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV-14,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
 CCTV-15,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
 CCTV-16,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
-CCTV-17,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
+CCTV-17,#http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
 CCTV-5+,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
 CCTV-4K,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
@@ -30,6 +30,7 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
@@ -56,6 +57,7 @@ CGTN拉丁美洲,http://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 新余综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd1.m3u8?zjiangxd
 新余公共,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd2.m3u8?zjiangxd
 新余教育,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd3.m3u8?zjiangxd
+井冈山综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
 余干综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
 都昌综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wanzai.m3u8
 武宁综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wuning.m3u8
@@ -96,7 +98,7 @@ CGTN拉丁美洲,http://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 金鹰卡通,http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 
 港澳频道,#genre#
-凤凰卫视中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw
+凤凰卫视中文台,#http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰卫视资讯台,http://107.151.203.111:2209/135/hk.php?id=fhzx#http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
 凤凰卫视香港台,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
@@ -113,12 +115,9 @@ J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 台湾频道,#genre#
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 中视新闻,http://162.19.247.76:22222/live/zhongshi/index.m3u8
-中视菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
-华视新闻,http://162.19.247.76:22222/live/huashi/index.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -132,7 +131,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛电视台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 CNA亚洲新闻台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNN,https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+CNN,http://88.216.83.245/cnn/index.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 KBSWORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8#https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 NHKWORLD,http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
