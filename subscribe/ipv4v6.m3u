@@ -32,6 +32,8 @@ http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16",CCTV-16
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17",CCTV-17
+
+#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17",CCTV-17
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",CCTV-5+
 http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
@@ -61,6 +63,8 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1,风云音乐
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/第一财经" tvg-id="第一财经" tvg-name="第一财经",第一财经
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 #EXTINF:-1,第一剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1,风云足球
@@ -123,6 +127,8 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd1.m3u8?zjiangxd
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd2.m3u8?zjiangxd
 #EXTINF:-1,新余教育
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd3.m3u8?zjiangxd
+#EXTINF:-1,井冈山综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
 #EXTINF:-1,都昌综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wanzai.m3u8
 #EXTINF:-1,武宁综合
@@ -353,20 +359,12 @@ http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1,中视新闻
 http://162.19.247.76:22222/live/zhongshi/index.m3u8
-#EXTINF:-1,中视菁采
-http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
-#EXTINF:-1,华视新闻
-http://162.19.247.76:22222/live/huashi/index.m3u8
 #EXTINF:-1,民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1,民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1,TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1,TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1,中天综合
-http://107.151.203.111:2209/135/us50.php?id=ztz
 #EXTINF:-1,中天亚洲
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
 #EXTINF:-1,大爱1台
@@ -396,7 +394,7 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 #EXTINF:-1 tvg-logo="http://wtv.tools.frpsss.tk/prod/api/v1/tvg/logo/亚洲新闻台" tvg-id="亚洲新闻台" tvg-name="亚洲新闻台",CNA亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,CNN
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+http://88.216.83.245/cnn/index.m3u8
 #EXTINF:-1,Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1,KBSWORLD
