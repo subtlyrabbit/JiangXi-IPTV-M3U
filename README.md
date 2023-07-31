@@ -36,7 +36,7 @@
      - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4v6.txt`
    - 仅IPV4（暂无）：
      - `https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4.txt`
-   - 最后更新时间：2023/06/11
+   - 最后更新时间：2023/07/31
 - **M3U订阅链接(可在PC、Emby上使用，更新较慢)**
   - **每个频道只有一个1080P低延迟直播源**（延迟测试基于江西电信）
    - 含有tvg-name，可与EPG匹配显示台标
